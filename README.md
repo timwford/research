@@ -1,8 +1,7 @@
 # research
 Research with Dr. Hoover and Dr. Caudle at SDSMT by Timothy Ford.
 
-Find me:
-** timothywford.com ** 
+Find me (here)[timothywford.com]
 
 # research/
 
