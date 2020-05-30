@@ -6,7 +6,7 @@ Find me here: timothywford.com
 # research/
 
 * README.md - this
-* requirements.txt - Pip venv requirements (maybe help to come on site if I feel like it or someone wants it)
+* requirements.txt - pip venv requirements, needed to run jupyter notebooks (maybe help to come on site if I feel like it or someone wants it)
 * abstract.odt - My abstract for the presentation
 
 # research/tensor functions (matlab)
